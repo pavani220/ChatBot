@@ -4,10 +4,10 @@ import Ionicons from 'react-native-vector-icons/Ionicons'; // Make sure to insta
 import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityIcons'; // Make sure to install react-native-vector-icons
 
 const responses = {
-  hi: 'Hello, Welcome to VurimiAi Global Services, how can I help you today?',
+  hi: 'Hello, Welcome to VurimiAi Global Services, how can I help you today??',
   issue: 'Sorry for the inconvenience, please call the customer care number.',
-  problem: 'Sorry for the inconvenience, please call the customer care number.',
-  complaint: 'Sorry for the inconvenience, please call the customer care number.',
+  problem: 'Sorry for the inconvenience, please call the customer-care number.',
+  complaint: 'Sorry for the inconvenience, please call the customer-care number.',
   help: 'Sorry for the inconvenience, please call the customer care number.',
   location: 'VurimiAi Main Branch is located in Nellore, Andhra Pradesh, India.',
   address: 'VurimiAi Main Branch is located in Nellore, Andhra Pradesh, India.',
